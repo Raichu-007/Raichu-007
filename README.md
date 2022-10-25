@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in Web developement and Machine learning.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React JS and Django REST Frameworks.
 - 💞️ I’m looking to collaborate on Javascript / Python web applications and deep neural networks. 
 
 <!---
